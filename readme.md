@@ -39,5 +39,6 @@ MS Excel | `Barcode Enter` |
 
 
 1- https://www.mediafire.com/file/2xl606cb3rioegu/Barcode_Client_Server_1.2.9_apkcombo.com.apk/file
+
 2- https://www.mediafire.com/file/tedtn38uh2d1w9m/BarcodeServer-2.0.1.zip/file
 
